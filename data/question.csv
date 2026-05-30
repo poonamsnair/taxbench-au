@@ -1,0 +1,1249 @@
+id,topic,year_of_income,question,choice_A,choice_B,choice_C,choice_D
+Q001,CGT,2023-24,"In July 1997 Tobias bought 1,000 shares at $4 per share and incurred brokerage and stamp duty of $120. In December 2023 he sold all 1,000 shares for $3 per share, incurring brokerage of $60. His reduced cost base is the purchase price $4,000 plus $120 (1997 brokerage and stamp duty) plus $60 (2023 brokerage) = $4,180, and his capital proceeds are 1,000 x $3 = $3,000.
+
+What is Tobias's capital loss on the shares?
+
+A. $590
+B. -$1,180
+C. $1,180
+D. $7,180",$590,"-$1,180","$1,180","$7,180"
+Q002,Individual income tax,2024-25,"Leah is an Australian resident for all of 2024-25 with a taxable income of $40,000, single with no dependants. From 1 July 2024 the Stage 3 rates apply: $18,201 - $45,000 is taxed at 16c for each $1 over $18,200 (the old 19c rate no longer applies). Add the 2% Medicare levy on taxable income, then subtract the low income tax offset (LITO): for income between $37,501 and $45,000, LITO = $700 minus 5 cents for every $1 over $37,500.
+
+What is Leah's net tax payable (income tax + Medicare levy - LITO) for 2024-25?
+
+A. $3,713
+B. $4,367
+C. $2,913
+D. $4,288","$3,713","$4,367","$2,913","$4,288"
+Q003,Employment,2023-24,"Priya is 46 and started working for HJK Pty Ltd on 5 July 2001. She is made redundant effective 20 August 2023 because the company merged and her role was no longer needed. Priya is paid 2 weeks for each of her 22 years of service based on weekly earnings of $2,090 (approximately 2 × $2,090 × 22 = $92,000). She is receiving a genuine redundancy. For 2023-24 the tax-free limit is the base amount $11,985 plus the service amount $5,994 for each completed year of service.
+
+What is Priya's genuine redundancy tax-free limit for her 22 years of service?
+
+A. $17,979
+B. $131,868
+C. $143,853
+D. $92,000","$17,979","$131,868","$143,853","$92,000"
+Q004,Employment,2023-24,"Darren is a 57-year-old operations director who has worked for Coral Bay Freight for 14 years. In 2023-24 Coral Bay Freight is acquired by a larger group that already has an operations director, so Darren's position is no longer needed and his employment is terminated. He accepts a redundancy and is paid $270,000, of which $205,000 is the genuine redundancy part. For 2023-24 the genuine redundancy tax-free limit is the base amount of $11,985 plus the service amount of $5,994 for each completed year of service.
+
+What is the tax-free part of Darren's genuine redundancy payment based on his 14 years of service?
+
+A. $95,901
+B. $17,979
+C. $251,706
+D. $83,916","$95,901","$17,979","$251,706","$83,916"
+Q005,Division 7A & Company Tax,2014-15,"In the 2014-15 income year Company K has assessable income of $750 ($175 franked dividend, $75 franking credit gross-up and $500 other income) and $250 of allowable deductions, giving taxable income of $500. It applies the 30% company tax rate and is entitled to a $75 franking tax offset for the franking credit. Income tax payable = taxable income x 30% less the franking tax offset.
+
+What is Company K's income tax payable for 2014-15 (before any prior-year losses)?
+
+A. $225
+B. $50
+C. $75
+D. $150",$225,$50,$75,$150
+Q006,Individual income tax,2021-22,"Hugo's taxable income is $99,000 for 2021-22. As his income is more than $90,000 but less than $126,000, his low and middle income tax offset (LMITO) is the full amount of $1,500 minus 3 cents for every dollar his income is above $90,000.
+
+What is Hugo's low and middle income tax offset (LMITO) amount for 2021-22?
+
+A. -$1,470
+B. $825
+C. $1,500
+D. $1,230","-$1,470",$825,"$1,500","$1,230"
+Q007,Employment,2025-26,"Once per week Mateo makes a 33-kilometre round trip in his own car from his city head office to meet clients, and once per month he makes a 118-kilometre round trip to clients at another location. For 2025-26 his diary shows he made 46 weekly client trips (46 × 33 km = 1,518 km) and 12 monthly client trips (12 × 118 km = 1,416 km), giving total work-related travel of 2,934 km, plus a further 252 km of occasional client visits, for 3,186 km. The cents per kilometre rate for 2025-26 is 88 cents per kilometre, and a maximum of 5,000 work-related kilometres can be claimed per car.
+
+What car expense deduction can Mateo claim for 2025-26 using the cents per kilometre method?
+
+A. $2,485
+B. $4,400
+C. $2,708
+D. $2,804","$2,485","$4,400","$2,708","$2,804"
+Q008,FBT,2023-24,"Goldenfields Mission, a public benevolent institution registered for GST, provides Rosa with a car fringe benefit valued at $3,500 using the statutory formula method. This is a type 1 benefit because the institution is entitled to a GST credit for the provision of the benefit. The type 1 gross-up rate is 2.0802.
+
+What is Rosa's grossed-up type 1 amount for the car fringe benefit?
+
+A. $7,280.70
+B. $3,500.00
+C. $3,421.93
+D. $6,603.80","$7,280.70","$3,500.00","$3,421.93","$6,603.80"
+Q009,Employment,2024-25,"Naomi is an employee engineer. During 2024-25 she works from home and uses her timesheets to record the hours she spends working from home. At the end of the income year she works out she worked at home for a total of 1,126 hours. She incurs electricity, internet and mobile phone expenses while working from home. For 2024-25 the working-from-home fixed rate is 70 cents per work hour, which covers energy, phone, internet, stationery and computer consumables.
+
+What working-from-home deduction can Naomi claim for 2024-25 using the fixed rate method?
+
+A. $586
+B. $1,126
+C. $788
+D. $754",$586,"$1,126",$788,$754
+Q010,Depreciation,2019-20,"Hassan buys a noise-cancelling headset for $220. He uses it 75% of the time for managing his (non-business) share portfolio and 25% of the time for private purposes. Because he uses it more than 50% of the time to produce non-business assessable income, and it cost $300 or less, he qualifies for an immediate deduction - but the deduction must be reduced by the 25% private (non-taxable) use.
+
+What immediate deduction can Hassan claim for the headset (ignoring GST)?
+
+A. $55.00
+B. $165.00
+C. $219.75
+D. $220.00",$55.00,$165.00,$219.75,$220.00
+Q011,Study and training loans,2025-26,"In the 2025-26 financial year Ananya has a taxable income of $224,500 and reportable super contributions of $26,930, giving a repayment income of $251,430. This is above $179,286, so the repayment is 10% of her total repayment income (the ATO rounds the result to the nearest dollar).
+
+What is Ananya's compulsory study and training loan repayment for 2025-26?
+
+A. $37,714.50
+B. $7,214.40
+C. $30,193.10
+D. $25,143.00","$37,714.50","$7,214.40","$30,193.10","$25,143.00"
+Q012,Individual income tax,2023-24,"Priya is an Australian resident for the year ended 30 June 2024 with a taxable income of $36,500. The ATO works out the tax payable on her taxable income, stating the amount includes the Medicare levy. For 2023-24 the second resident bracket is 19c for each $1 over $18,200, and the Medicare levy is 2% of taxable income.
+
+What is the tax payable (including the 2% Medicare levy) on Priya's taxable income of $36,500 for 2023-24?
+
+A. $3,843
+B. $7,665
+C. $4,207
+D. $3,477","$3,843","$7,665","$4,207","$3,477"
+Q013,Superannuation,2024-25,"In 2024-25 Nadia has $18,000 of carried-forward unused concessional cap (her total super balance at 30 June 2024 was below $500,000, so she can use it). Her employer pays $9,500 of super guarantee concessional contributions during the year, and she makes a $6,000 personal contribution for which she will claim a tax deduction (a concessional contribution). The standard concessional contributions cap for 2024-25 is $30,000.
+
+How much more can Nadia contribute as a concessional contribution in 2024-25 before exceeding her available cap?
+
+A. $42,000
+B. $30,000
+C. $14,500
+D. $32,500","$42,000","$30,000","$14,500","$32,500"
+Q014,Individual income tax,2024-25,"Sanjay became an Australian resident for tax purposes on 12 October, so his tax-free threshold is apportioned for 9 of the 12 months in the income year (including the month he arrived). A part-year resident's tax-free threshold is a flat $13,464 plus an additional $4,736 apportioned for the number of resident months.
+
+What is Sanjay's pro-rated tax-free threshold for the income year?
+
+A. $13,650
+B. $18,200
+C. $17,016
+D. $13,464","$13,650","$18,200","$17,016","$13,464"
+Q015,Superannuation,2023-24,"In the current financial year Rosa earns $34,000, which is at or below the lower income threshold. She pays $42.30 per fortnight from her take-home (after-tax) pay into her super account, totalling $1,100 of personal non-concessional contributions for the year. She meets all other co-contribution eligibility requirements. The government matches eligible personal contributions at 50 cents per dollar, up to a maximum co-contribution of $500.
+
+What super co-contribution will the government pay into Rosa's super account?
+
+A. $550
+B. $275
+C. $500
+D. $1,100",$550,$275,$500,"$1,100"
+Q016,Division 7A & Company Tax,2015-16,"Continuing the same amalgamated loan, the amount of the loan remaining at the end of the previous income year (year ended 30 June 2015) is $63,750. The benchmark interest rate for the 2016 income year is 5.45% and the remaining term is 6 years (the 7-year loan term less one elapsed year). The minimum yearly repayment is worked out using MYR = (P x I) / (1 - (1 / (1 + I)) ^ T).
+
+What is the minimum yearly repayment for the 2016 income year?
+
+A. $12,944.01
+B. $3,474.38
+C. $11,197.61
+D. $12,741.19","$12,944.01","$3,474.38","$11,197.61","$12,741.19"
+Q017,Superannuation,2025-26,"Priscilla finished employment with Clever Crosswords Pty Ltd on 30 June 2025. In September 2025 the company realises it underpaid her for the period 1 January to 30 June 2025 and works out back pay of $3,150 of ordinary hours and $945 of overtime. Priscilla is paid the back pay on 6 September 2025. Overtime is not OTE, and because payment is made after 1 July 2025 the 12% super guarantee rate applies.
+
+What super guarantee contribution must Clever Crosswords Pty Ltd pay on Priscilla's back pay?
+
+A. $378.00
+B. $113.40
+C. $491.40
+D. $362.25",$378.00,$113.40,$491.40,$362.25
+Q018,FBT,2025-26,"Kestrel Advisory Partners spends $6,800 on meal entertainment (not provided under a salary packaging arrangement) for the FBT year ending 31 March 2026. On 1 April 2026 the employer elects to value the meal entertainment fringe benefits using the 50:50 split method.
+
+What is the taxable value of the meal entertainment fringe benefits under the 50:50 split method?
+
+A. $3,400.00
+B. $6,415.12
+C. $1,598.00
+D. $6,800.00","$3,400.00","$6,415.12","$1,598.00","$6,800.00"
+Q019,FBT,2020-21,"A car purchased by Summit Architecture Studio in February 2020 is used privately by its employee Priya Venkatesh throughout the FBT year 1 April 2020 to 31 March 2021. The employer and employee kept the right records and determined the business use percentage is 65% (so private use is 35%). The total operating costs for the year are $16,400 (fuel $2,600, repairs and maintenance $1,200, service $900, insurance and registration $1,800, deemed depreciation $8,200 and deemed interest $1,700). Priya spent $1,800 on fuel and provided the required declaration to the employer.
+
+What is the taxable value of the car fringe benefit using the operating cost method for the FBT year ending 31 March 2021?
+
+A. $7,540
+B. $5,740
+C. $3,940
+D. $8,860","$7,540","$5,740","$3,940","$8,860"
+Q020,Division 7A & Company Tax,2014-15,"On 3 March 2015 Brightwater Trading Pty Ltd loaned $800 to its shareholder Marcus, which is treated as a provisional dividend of $800 at 30 June 2015. For the year ended 30 June 2015 Brightwater Trading Pty Ltd has a distributable surplus of $1,500, while the total of all provisional dividends (loans and payments to shareholders and associates) is $2,000. Because the distributable surplus is less than the total provisional dividends, each provisional dividend is reduced proportionally: amount treated as a dividend = provisional dividend x (distributable surplus / total provisional dividends).
+
+What amount is treated as a dividend to Marcus for the 2014-15 income year?
+
+A. $1,500.00
+B. $600.00
+C. $1,066.67
+D. $800.00","$1,500.00",$600.00,"$1,066.67",$800.00
+Q021,Depreciation,2024-25,"Olivia buys a freestanding electric heater for her residential rental property for exactly $300 (GST-inclusive; she is not registered for GST). The property is rented at commercial rates and the heater is used 100% to produce assessable rental income. Assets costing $300 or LESS can be claimed as an immediate deduction in the year first used for a taxable purpose; assets costing MORE than $300 must be depreciated over their effective life (for a heater, 15 years). The heater is not part of a set.
+
+What deduction can Olivia claim for the heater in 2024-25?
+
+A. $150
+B. $300
+C. $20
+D. $40",$150,$300,$20,$40
+Q022,Individual income tax,2023-24,"Daniel is an Australian resident for the year ended 30 June 2024. His only salary is $78,000. During 2023-24 he sold parcels of shares he had held for more than 3 years, making a total capital gain (before any discount) of $30,000, all of which qualifies for the 50% CGT discount. He also has a carried-forward net capital loss of $6,000 from an earlier year. He has no other income, deductions or offsets. Capital losses must be applied to the capital gain BEFORE the 50% CGT discount. For 2023-24 the resident rates are: nil up to $18,200; 19c per $1 from $18,201 to $45,000; $5,092 plus 32.5c per $1 from $45,001 to $120,000; plus a 2% Medicare levy on taxable income.
+
+What is Daniel's income tax payable (including the 2% Medicare levy) for 2023-24?
+
+A. $20,482
+B. $22,552
+C. $21,517
+D. $19,717","$20,482","$22,552","$21,517","$19,717"
+Q023,CGT,2024-25,"Gordon bought an investment property for $200,000 under a contract dated 18 May 1992 (deposit $20,000, balance $180,000 on settlement), paying $7,000 stamp duty and $3,000 solicitor's fees, all before 21 September 1999. He sold it on 12 November 2024 for $850,000, incurring $2,000 solicitor's fees and $20,000 agent's commission on sale. Indexing the pre-1999 acquisition costs gives indexed amounts of $24,400 (deposit) + $219,600 (balance) + $7,850 (stamp duty) + $3,090 (solicitor's fees) = $254,940; adding the non-indexable sale costs ($2,000 + $20,000) gives a total indexed cost base of $276,940.
+
+What is Gordon's capital gain on the property using the indexation method?
+
+A. $309,000
+B. $286,530
+C. $573,060
+D. $618,000","$309,000","$286,530","$573,060","$618,000"
+Q024,Study and training loans,2025-26,"Mia has a HELP debt. For 2025-26 her repayment income is built up as taxable income $70,000 plus a net investment loss of $5,000 plus reportable super contributions of $3,000, giving repayment income of $78,000. From 2025-26 compulsory repayments are MARGINAL: for repayment income in the $67,001 - $125,000 band the repayment is 15c for each $1 OVER the $67,000 minimum threshold (not a flat percentage of the whole income).
+
+What is Mia's compulsory HELP repayment for 2025-26?
+
+A. $900
+B. $450
+C. $1,650
+D. $11,700",$900,$450,"$1,650","$11,700"
+Q025,Depreciation,2024-25,"A machine costs $60,000 (after excluding GST the business is entitled to claim) and has an effective life of 8 years. It was acquired on the first day of the income year and is used wholly for a taxable purpose, so it is held for all 365 days of the year. Northbridge Joinery uses the prime cost (straight line) method.
+
+What is the decline in value (depreciation deduction) for the first income year under the prime cost method?
+
+A. $3,750
+B. $15,000
+C. $60,000
+D. $7,500","$3,750","$15,000","$60,000","$7,500"
+Q026,FBT,2022-23,"Verdant Foods Pty Ltd provides fringe benefits to its two employees, Carlos and Yuki. The GST-inclusive benefits for which Verdant Foods can claim a GST credit (type 1 benefits) are: a car fringe benefit for Carlos with a taxable value of $9,900, a car fringe benefit for Yuki with a taxable value of $8,800, and restaurant meals for both employees with a taxable value of $4,400. The total type 1 (GST-inclusive) taxable value is $23,100. The type 1 (higher) gross-up rate is 2.0802.
+
+What is Verdant Foods' type 1 grossed-up amount for these GST-inclusive fringe benefits?
+
+A. $23,100
+B. $43,585
+C. $22,585
+D. $48,053","$23,100","$43,585","$22,585","$48,053"
+Q027,Rental property,2024-25,"Priya owns a rental property for the whole of 2024-25. She receives $28,600 in rent plus $400 of other rental-related income. Her deductible rental expenses are: loan interest $19,200, council rates $2,100, insurance $1,300, property agent fees $2,288 and deductible repairs $900. A quantity surveyor's report shows the building's capital works deduction (Division 43, 2.5% of a $140,000 construction cost) is $3,500 for the year. During the year Priya also paid $4,500 to build a brand-new pergola; this is a capital improvement that is not an immediate ('repairs') deduction.
+
+What is Priya's net rental income or loss for 2024-25?
+
+A. -$288
+B. -$4,788
+C. -$688
+D. $3,212",-$288,"-$4,788",-$688,"$3,212"
+Q028,Superannuation,2025-26,"For the fortnightly pay period ending 30 June 2025, Marco's pay (paid by Olivia on 3 July 2025) includes salary of $3,200, a higher duties allowance of $600, overtime of $142.55 and an overtime meal allowance of $30. Overtime and overtime meal allowances are not in respect of ordinary hours, so they are excluded from OTE. Because Olivia pays on 3 July 2025, the 2025-26 super guarantee rate of 12% applies.
+
+What is Olivia's minimum super guarantee contribution for Marco for this pay period?
+
+A. $476.71
+B. $473.11
+C. $456.00
+D. $384.00",$476.71,$473.11,$456.00,$384.00
+Q029,FBT,2022-23,"After grossing up its benefits, Verdant Foods Pty Ltd (which provided car fringe benefits to Carlos and Yuki plus meals and gym memberships) has a total fringe benefits taxable amount of $61,800 (the type 1 grossed-up amount of $48,053 plus the type 2 grossed-up amount of $13,747). The FBT rate for the year is 47%.
+
+How much FBT must Verdant Foods pay for the FBT year?
+
+A. $29,046.00
+B. $61,800.00
+C. $27,810.00
+D. $60,421.49","$29,046.00","$61,800.00","$27,810.00","$60,421.49"
+Q030,GST,2024-25,"Rivermont Pty Ltd, registered for GST, sells an existing residential house (not new residential premises and not commercial residential premises) for $660,000. The premises have only ever been used as a residence.
+
+How much GST is payable on the sale of the residential premises?
+
+A. $66,000
+B. $60,000
+C. $0
+D. $600,000","$66,000","$60,000",$0,"$600,000"
+Q031,Superannuation,2018-19,"In 2018-19 Diego and his employer made only $7,500 of super guarantee concessional contributions. The concessional contributions cap for 2018-19 was $25,000. Carry-forward of unused concessional cap amounts can be accumulated starting from 2018-19.
+
+What unused concessional contributions cap did Diego accumulate in 2018-19?
+
+A. $32,500
+B. $25,000
+C. $20,000
+D. $17,500","$32,500","$25,000","$20,000","$17,500"
+Q032,FBT,2025-26,"Meridian Property Group pays its employee Lachlan Frost's home telephone bill of $1,800 for the FBT year ending 31 March 2026. On 31 March 2026 Lachlan provides a declaration stating that 45% of the calls are for business purposes (and are therefore otherwise deductible) and the other 55% are private calls. This reimbursement is an expense payment fringe benefit.
+
+What is the taxable value of the expense payment fringe benefit after applying the otherwise deductible rule?
+
+A. $271.69
+B. $990.00
+C. $1,800.00
+D. $810.00",$271.69,$990.00,"$1,800.00",$810.00
+Q033,CGT,2024-25,"Daniel buys an investment property for $560,000 and sells it 6 years later for $880,000. His cost base is $615,000, made up of the $560,000 purchase price plus $22,000 stamp duty and $1,800 conveyancing fees on purchase, and $1,400 conveyancing fees and $29,800 agent's commission on sale. He has no other capital gains or losses.
+
+What is Daniel's net capital gain on the investment property after the CGT discount?
+
+A. $66,250
+B. $440,000
+C. $132,500
+D. $265,000","$66,250","$440,000","$132,500","$265,000"
+Q034,FBT,2016-17,"On 20 August 2016 Brightwater Logistics Pty Ltd agreed to provide its employee Dilan Reddy with a car fringe benefit. The car was delivered on 25 August 2016 and was available to Dilan for private use from that date until the end of the FBT year (31 March 2017), a total of 219 days. Over that period the car travelled 24,500 kilometres. The base value of the car is $45,000. There is no pre-existing commitment, so the flat statutory rate of 20% applies. Dilan did not make any contributions.
+
+What is the taxable value of the car fringe benefit using the statutory formula method for the FBT year ending 31 March 2017?
+
+A. $9,000
+B. $15,000
+C. $7,020
+D. $5,400","$9,000","$15,000","$7,020","$5,400"
+Q035,CGT,2024-25,"Idris acquired a property after 20 September 1985 and owned it for 4,500 days, during which it was his main residence throughout. He left it to his daughter Noor, who owned it for 3,000 days and never used it as her main residence. When Noor died she left it to Lakshmi, who owned it for 900 days and never used it as her main residence. Lakshmi sold the property and made a capital gain of $540,000. The taxable proportion is the days the property was not a main residence (3,000 + 900) divided by the total days from when Idris first acquired it until Lakshmi sold it (3,000 + 900 + 4,500).
+
+What is the taxable proportion of Lakshmi's $540,000 capital gain before any discount?
+
+A. $468,000.00
+B. $250,714.29
+C. $289,285.71
+D. $125,357.14","$468,000.00","$250,714.29","$289,285.71","$125,357.14"
+Q036,Individual income tax,2023-24,"Priya is an Australian resident for the year ended 30 June 2024 with a taxable income of $60,000. During the year she also received a $1,500 government disaster relief payment that is exempt income (not assessable and not included in taxable income). Priya is 67 years old. For 2023-24 the resident rates are: nil up to $18,200; 19c per $1 from $18,201 to $45,000; $5,092 plus 32.5c per $1 from $45,001 to $120,000; plus a 2% Medicare levy on taxable income.
+
+What is Priya's income tax payable (including the 2% Medicare levy) on her taxable income of $60,000 for 2023-24?
+
+A. $20,700.00
+B. $11,684.50
+C. $9,967.00
+D. $11,167.00","$20,700.00","$11,684.50","$9,967.00","$11,167.00"
+Q037,GST,2018-19,"Riverstone Developments is a GST-registered property developer. It bought a 2,500 square metre block of land for $275,000 from a private individual who wasn't required to be registered for GST. The block is of equal value per square metre. Riverstone subdivided it into a 1,000 sqm lot and a 1,500 sqm lot, using an area basis to work out the purchase price of each lot, so the 1,000 sqm lot's purchase price is 1,000 / 2,500 x $275,000 = $110,000. Riverstone sells the 1,000 sqm lot for $187,000 under the margin scheme.
+
+How much GST is payable on the sale of the 1,000 sqm subdivided lot under the margin scheme?
+
+A. $17,000
+B. $7,000
+C. -$8,000
+D. $7,700","$17,000","$7,000","-$8,000","$7,700"
+Q038,GST,2018-19,"Marco is registered for GST. On 25 September 2017 he buys vacant land for $660,000 from Lena, who isn't registered for GST. Marco improves the property with roads and other services and sells it to a developer for $935,000 on 2 October 2018. He chooses to use the margin scheme to work out the GST on the sale.
+
+How much GST must Marco pay on the sale under the margin scheme?
+
+A. $27,500
+B. $85,000
+C. $12,500
+D. $25,000","$27,500","$85,000","$12,500","$25,000"
+Q039,Rental property,2024-25,"Rosalind and Quentin jointly own a property they rent out at market rates and also use as a holiday home for 7 weeks during the year. Their total expenses for the property are $45,175, of which $2,275 is the agent's commission and advertising (fully deductible). The remaining $42,900 of expenses must be apportioned to the proportion of the year the property was rented out or genuinely available for rent (45 of 52 weeks). They received $31,200 in rent.
+
+What rental loss do Rosalind and Quentin report for the year (combined)?
+
+A. -$7,893.75
+B. $23,150.00
+C. -$13,975.00
+D. -$8,200.00","-$7,893.75","$23,150.00","-$13,975.00","-$8,200.00"
+Q040,CGT,2024-25,"In 2024-25 Wei makes a discount-eligible capital gain of $80,000 on an investment property held for 7 years. In the same year he makes a $6,000 capital loss on shares. He also has a net capital loss of $14,000 carried forward from an earlier income year. Per the ATO steps, all capital losses (prior-year first, then current-year) are subtracted from the gain before the 50% discount is applied to what remains.
+
+What is Wei's net capital gain for 2024-25 after applying both capital losses and the CGT discount?
+
+A. $30,000
+B. $37,000
+C. $20,000
+D. $60,000","$30,000","$37,000","$20,000","$60,000"
+Q041,Superannuation,2025-26,"In 2025-26 Leah's ordinary time earnings (OTE) are $90,000, on which her employer must pay super guarantee (SG) at the 2025-26 rate of 12%. She also enters a salary-sacrifice arrangement to put an extra $12,000 into super; salary-sacrificed amounts are concessional contributions and count towards the concessional contributions cap. The concessional contributions cap for 2025-26 is $30,000. She has no carried-forward unused cap.
+
+How much further concessional contribution headroom does Leah have under her 2025-26 concessional cap after her employer SG and salary sacrifice?
+
+A. $7,650
+B. $7,200
+C. $18,000
+D. $19,200","$7,650","$7,200","$18,000","$19,200"
+Q042,Depreciation,2024-25,"Sanjay buys a depreciating asset (a freestanding microwave) for his residential rental property for $301 (he is not registered for GST). The asset is held for the full 365 days of the year and used 100% to produce assessable rental income. Because the cost is MORE than $300, he cannot claim an immediate deduction; he must claim the decline in value over its effective life of 10 years. He chooses the diminishing value method (200% rate), and in the first year the base value equals the $301 cost.
+
+What decline-in-value deduction can Sanjay claim for the microwave in its first year (diminishing value method)?
+
+A. $30.10
+B. $45.15
+C. $60.20
+D. $301.00",$30.10,$45.15,$60.20,$301.00
+Q043,Individual income tax,2024-25,"Bianca's taxable income is $31,500. She is single with no dependants and isn't entitled to SAPTO. For 2024-25 a single taxpayer's Medicare levy is reduced (shaded in) where taxable income is between the lower threshold of $27,222 and the upper threshold of $34,027: in the shade-in range the levy is 10c for each $1 of taxable income above the lower threshold (instead of the full 2%). The ATO's calculator shows Bianca's Medicare levy is reduced accordingly.
+
+What is Bianca's reduced Medicare levy for 2024-25?
+
+A. $427.80
+B. $85.56
+C. $630.00
+D. $3,150.00",$427.80,$85.56,$630.00,"$3,150.00"
+Q044,Superannuation,2025-26,"Felix is the Operations Manager of Diana's Stationery Pty Ltd. During the July to September quarter of 2025-26, Felix's earnings are $78,000. The quarterly maximum contribution base (MCB) for 2025-26 is $62,500, and the super guarantee rate is 12%. SG is only payable up to the MCB.
+
+What super guarantee must Diana's Stationery Pty Ltd contribute for Felix for the quarter?
+
+A. $9,360
+B. $62,500
+C. $1,860
+D. $7,500","$9,360","$62,500","$1,860","$7,500"
+Q045,Rental property,2024-25,"Liam buys a rental property and, immediately after settlement and before the first tenant moves in, pays $8,000 to fix a damaged ceiling and a rotted fence that were already defective at the date of purchase. In the same year he also pays $1,200 to fix a hot-water system that broke down due to normal wear AFTER the property had been rented. Initial repairs to rectify damage or defects existing at the time of purchase are capital in nature and cannot be claimed as an immediate repair deduction (they are claimed as capital works over 40 years instead). The $1,200 wear-and-tear repair during the rental period is an immediately deductible repair.
+
+What amount can Liam claim as an immediate repairs deduction (section 25-10) in 2024-25?
+
+A. $1,400
+B. $1,200
+C. $8,000
+D. $9,200","$1,400","$1,200","$8,000","$9,200"
+Q046,Individual income tax,2023-24,"Yuki is an Australian resident for the year ended 30 June 2024. She paid $3,200 of foreign income tax. Because she is claiming more than $1,000, she must work out her foreign income tax offset limit. Step 1 is the tax payable on her actual taxable income of $29,000 (including Medicare levy), which the ATO gives as $2,632.00. Step 2 is the tax that would be payable if her assessable foreign income and related deductions were disregarded, leaving a taxable income of $20,500; the ATO gives this as $437.00 (no Medicare levy, as $20,500 is below the Medicare low-income threshold). The offset limit is Step 1 minus Step 2.
+
+What is Yuki's foreign income tax offset limit for 2023-24?
+
+A. $2,195
+B. $3,200
+C. $3,069
+D. $2,632","$2,195","$3,200","$3,069","$2,632"
+Q047,Employment,2024-25,"At the end of the income year Owen's logbook shows he travelled a total of 13,000 kilometres, of which 9,750 were for business-related purposes, giving a business-use percentage of 9,750 ÷ 13,000 × 100 = 75%. Owen's total car expenses, including depreciation, are $12,500 for the income year.
+
+Using the logbook method, what car expense deduction can Owen claim?
+
+A. $9,375.00
+B. $16,666.67
+C. $12,500.00
+D. $12,499.25","$9,375.00","$16,666.67","$12,500.00","$12,499.25"
+Q048,FBT,2023-24,"Riverbend Benevolent Society, a public benevolent institution registered for GST, provides Fatima with a car fringe benefit valued at $28,000 using the statutory formula method (a type 1 benefit, as the institution is entitled to GST credits). Fatima's only other benefit is a reimbursement of holiday cottage rent that is not under a salary packaged arrangement, so it is excluded. The capping threshold for a public benevolent institution is $30,000. Fatima's grossed-up type 1 amount is $28,000 x 2.0802 = $58,245.60, which exceeds the $30,000 cap.
+
+What is the aggregate non-exempt amount for Fatima's car fringe benefit?
+
+A. $58,245.60
+B. $22,830.40
+C. $28,245.60
+D. -$2,000.00","$58,245.60","$22,830.40","$28,245.60","-$2,000.00"
+Q049,Employment,2024-25,"Glenn works from home two days a week (16 hours). From 1 July 2024 to 28 February 2025 he did not keep a record of his work-from-home hours, so he estimated 315 hours, but estimates are not accepted under the fixed rate method. From 1 March 2025 to 30 June 2025 he kept a record in his calendar of his actual start and finish times and calculated 204 hours worked from home. The fixed rate for 2024-25 is 70 cents per work hour.
+
+What working-from-home deduction can Glenn claim for 2024-25 using the fixed rate method?
+
+A. $220
+B. $363
+C. $137
+D. $143",$220,$363,$137,$143
+Q050,GST,2020-21,"In September 2018 Bruno sold his going concern, which included property, to Sofia. Bruno had originally bought the property using the margin scheme in August 2014 for $360,000, and a 2014 state government rates valuation stated its value was $385,000 (given to Sofia). Bruno was registered for GST when Sofia bought it. In 2020 Sofia sells the property to a buyer using the margin scheme for $1,045,000, using the 2014 approved valuation of $385,000 to work out the margin.
+
+How much GST must Sofia pay on the sale under the margin scheme?
+
+A. $60,000.00
+B. $62,272.73
+C. $95,000.00
+D. $66,000.00","$60,000.00","$62,272.73","$95,000.00","$66,000.00"
+Q051,FBT,2024-25,"Soren Whitlock's employer provides him with a car fringe benefit with a taxable value of $4,200 and a housing fringe benefit with a taxable value of $1,300 for the 2024-25 income year. Both fringe benefits are reportable, and the total taxable value exceeds the $2,000 reporting threshold. Reportable fringe benefits are grossed up using the lower (Type 2) gross-up rate of 1.8868.
+
+What is Soren's reportable fringe benefits amount (RFBA)?
+
+A. $5,500.00
+B. $10,377.40
+C. $4,877.38
+D. $11,441.10","$5,500.00","$10,377.40","$4,877.38","$11,441.10"
+Q052,Individual income tax,2023-24,"Marcus is an Australian resident for the year ended 30 June 2024 with a taxable income of $92,000. The ATO works out the income tax payable on his taxable income (including the 2% Medicare levy) as the first step of an offset-limit calculation. For 2023-24 the resident rates are: nil to $18,200; 19c per $1 from $18,201 to $45,000; $5,092 plus 32.5c per $1 from $45,001 to $120,000; plus a 2% Medicare levy on taxable income.
+
+What is the income tax payable (including the 2% Medicare levy) on Marcus's taxable income of $92,000 for 2023-24?
+
+A. $20,367.00
+B. $22,207.00
+C. $20,367.02
+D. $31,740.00","$20,367.00","$22,207.00","$20,367.02","$31,740.00"
+Q053,Rental property,2024-25,"Hugo and Delphine take out a single loan of $264,000, of which $220,000 is used to buy a rental property (as joint tenants) and $44,000 is used to buy a car solely for private use. The interest rate is 6.10% per annum and the property is rented from 1 July, so a whole year of interest applies. The total interest for year 1 is $264,000 x 6.10% = $16,104. Only the portion relating to the rental property loan is deductible.
+
+What amount of interest can Hugo and Delphine claim as a rental deduction for year 1 (combined)?
+
+A. $13,420
+B. $16,104
+C. $6,710
+D. $2,684","$13,420","$16,104","$6,710","$2,684"
+Q054,FBT,2025-26,"Stonefield Engineering Pty Ltd, a taxable employer, provides for the year ending 31 March 2026: a car for private use by its employee Aria valued using the statutory formula method with a taxable value of $13,500 (a GST taxable supply with an entitlement to a GST credit), and reimbursement of restaurant meals (elected to be classified as meal entertainment fringe benefits) with a taxable value of $1,500 (also a GST taxable supply with an entitlement to a GST credit). Both are type 1 benefits. The type 1 gross-up rate is 2.0802.
+
+What is the type 1 aggregate amount for the FBT year ending 31 March 2026?
+
+A. $15,000.00
+B. $28,082.70
+C. $28,302.00
+D. $31,203.00","$15,000.00","$28,082.70","$28,302.00","$31,203.00"
+Q055,Division 7A & Company Tax,2014-15,"During the 2014 income year Marrowdale Holdings Pty Ltd, a private company, made unsecured complying loans of $70,000 and $40,000 to a shareholder, each with a 7-year term. Before the lodgment day, $28,000 of principal was repaid, so the amount of the amalgamated loan not repaid by the end of the 2014 income year is $82,000. The benchmark interest rate for the income year ended 30 June 2015 is 5.95% and the remaining term is 7 years. The minimum yearly repayment (MYR) is worked out using the formula MYR = (P x I) / (1 - (1 / (1 + I)) ^ T).
+
+What is the minimum yearly repayment for the income year ended 30 June 2015?
+
+A. $11,714.29
+B. $16,649.55
+C. $14,662.98
+D. $4,879.00","$11,714.29","$16,649.55","$14,662.98","$4,879.00"
+Q056,FBT,2023-24,"Harbourlight Community Care, a rebatable not-for-profit employer, provides cars for private use to two employees, Tobias and Ingrid, for the year ending 31 March 2024. The car fringe benefits are type 1 benefits (GST taxable supplies with an entitlement to a GST credit). Tobias's car fringe benefit, calculated using the statutory formula method, is $18,000, and Ingrid's is $16,500, giving total car fringe benefits of $34,500. The type 1 gross-up rate is 2.0802.
+
+What is the type 1 aggregate amount for the car fringe benefits (item 14A of the FBT return)?
+
+A. $33,730.44
+B. $71,766.90
+C. $34,500.00
+D. $65,094.60","$33,730.44","$71,766.90","$34,500.00","$65,094.60"
+Q057,Depreciation,2021-22,"Mei purchased a commercial oven for $3,500 and originally used it privately. She started a catering business and began using the oven wholly for that business from 1 April 2022. She uses the prime cost method and adopts the Commissioner's effective life for the oven of 8 years. There are 91 days between 1 April 2022 and 30 June 2022 (inclusive) on which she used the oven exclusively for her business in the 2021-22 income year; she holds it for 92 days in total once installation day is counted.
+
+What deduction can Mei claim for the decline in value of the oven in the 2021-22 income year?
+
+A. $110.27
+B. $437.50
+C. $220.55
+D. $882.19",$110.27,$437.50,$220.55,$882.19
+Q058,FBT,2024-25,"Coastline Pty Ltd gives an employee a gift with a notional taxable value of exactly $300. The employer is registered for GST and is entitled to a GST credit on the gift (a Type 1 benefit). The minor benefits exemption requires the notional taxable value to be LESS than $300.
+
+What is the FBT payable on this benefit (the notional value is exactly $300)?
+
+A. $141.00
+B. $266.04
+C. $0.00
+D. $293.31",$141.00,$266.04,$0.00,$293.31
+Q059,Employment,2023-24,"Marcus is made genuinely redundant in 2023-24 after 8 completed years of service. The genuine redundancy part of his payment is $95,000. On termination he is also paid out $7,000 of unused annual leave, which is taxed separately and is NOT part of the genuine redundancy payment. Marcus is 61 years old. For 2023-24 the genuine redundancy tax-free limit is the base amount of $11,985 plus the service amount of $5,994 for each completed year of service. The amount of the genuine redundancy payment above the tax-free limit is part of his employment termination payment (ETP).
+
+How much of Marcus's $95,000 genuine redundancy payment is in excess of the tax-free limit and therefore part of his ETP?
+
+A. $77,021
+B. $59,937
+C. $42,063
+D. $35,063","$77,021","$59,937","$42,063","$35,063"
+Q060,Depreciation,2019-20,"Oksana purchased a workbench that she held for two years and used wholly for a taxable purpose. She then sold the workbench for $2,100. Its adjustable value at the time of sale was $1,850. A balancing adjustment event occurs on disposal: you compare the termination value (sale proceeds) with the adjustable value.
+
+What is Oksana's assessable balancing adjustment amount on the sale of the workbench (ignoring GST)?
+
+A. -$250
+B. -$300
+C. $550
+D. $250",-$250,-$300,$550,$250
+Q061,Employment,2024-25,"Harbour Co pays PAYG instalments using the instalment rate (option 2). Its instalment income for the quarter (T1) is $148,000. The instalment rate provided by the ATO (T2) is 11%. The instalment amount is calculated as T1 × T2.
+
+What is Harbour Co's PAYG instalment amount for the quarter?
+
+A. $16,280.00
+B. $1,345,454.55
+C. $148,000.00
+D. $162.80","$16,280.00","$1,345,454.55","$148,000.00",$162.80
+Q062,Superannuation,2024-25,"Helena's Division 293 income (her income for surcharge purposes plus her low-tax/concessional contributions) is exactly $250,000 for 2024-25, made up of $225,000 income plus $25,000 of concessional contributions. Division 293 tax is 15% and is payable only on the amount OVER the $250,000 threshold (taking the lesser of that excess and the contributions). At exactly $250,000 there is no excess.
+
+How much Division 293 tax does Helena pay for 2024-25?
+
+A. $0.00
+B. $0.15
+C. $37,500.00
+D. $3,750.00",$0.00,$0.15,"$37,500.00","$3,750.00"
+Q063,Division 7A & Company Tax,2017-18,"Re Pty Ltd has a 30% corporate tax rate for imputation purposes (gross-up rate 2.33333) and a benchmark franking percentage of 50%. On 18 December 2017 it makes a frankable distribution of $12,500 but chooses to allocate no franking credits to it, so it under-franks. The under-franking debit = frankable distribution x franking % differential / gross-up rate, where the franking % differential is 50% (benchmark 50% less actual 0%).
+
+What is the under-franking debit Re Pty Ltd must record in its franking account?
+
+A. $2,678.58
+B. $5,357.15
+C. $6,250.00
+D. $2,370.66","$2,678.58","$5,357.15","$6,250.00","$2,370.66"
+Q064,Study and training loans,2024-25,"Sam has a HELP debt and repayment income of exactly $62,851 for 2024-25 - the first dollar of the 2.0% band ($62,851 - $66,620). For 2024-25 and earlier years the compulsory repayment is a flat percentage of the WHOLE repayment income (not a marginal calculation): once repayment income reaches a band, the band's rate applies to the entire repayment income.
+
+What is Sam's compulsory HELP repayment for 2024-25?
+
+A. $168.32
+B. $628.51
+C. $0.00
+D. $1,257.02",$168.32,$628.51,$0.00,"$1,257.02"
+Q065,Individual income tax,2023-24,"Tom is an Australian resident for the year ended 30 June 2024. He earns a salary of $105,000 and $1,200 of bank interest, and has $2,300 of deductible work-related expenses. During the year he also received a $5,000 inheritance from his late aunt; an inheritance is a capital receipt and is not assessable income. For 2023-24 the resident rates are: nil up to $18,200; 19c per $1 from $18,201 to $45,000; $5,092 plus 32.5c per $1 from $45,001 to $120,000; plus a 2% Medicare levy on taxable income.
+
+What is Tom's income tax payable (including the 2% Medicare levy) for 2023-24?
+
+A. $24,234.50
+B. $27,106.00
+C. $26,312.50
+D. $28,037.50","$24,234.50","$27,106.00","$26,312.50","$28,037.50"
+Q066,Individual income tax,2021-22,"Damien has a taxable income of $40,000 for the 2021-22 income year, and the ATO states his basic tax payable on this amount. For 2021-22 the first $18,200 is tax-free (the tax-free threshold) and income from $18,201 to $45,000 is taxed at 19c for each $1 over $18,200. This figure is the basic income tax before any offsets and excludes the Medicare levy.
+
+What is Damien's basic income tax (before offsets and before the Medicare levy) on his taxable income of $40,000 for 2021-22?
+
+A. $7,085
+B. $4,578
+C. $7,600
+D. $4,142","$7,085","$4,578","$7,600","$4,142"
+Q067,Individual income tax,2024-25,"Carla left Australia permanently and became a foreign resident on 14 October 2024. She is entitled to 4 months (July to October, counting the month she left) of the tax-free threshold. A part-year resident's tax-free threshold is a flat $13,464 plus $4,736 divided by 12 and multiplied by the number of resident months.
+
+What is Carla's pro-rated tax-free threshold for 2024-25?
+
+A. $6,066.67
+B. $18,200.00
+C. $1,578.67
+D. $15,042.67","$6,066.67","$18,200.00","$1,578.67","$15,042.67"
+Q068,Superannuation,2019-20,"During 2019-20 Tobias is employed as a barber and earns $42,000. He contributes $7,500 to his super fund as a personal contribution and decides to claim an income tax deduction for $6,000 of it (giving his fund a valid notice of intent). A deductible personal contribution is a concessional contribution, on which the super fund pays 15% contributions tax.
+
+How much of Tobias's $6,000 deductible personal contribution is credited to his super fund account after contributions tax?
+
+A. $5,100
+B. $6,000
+C. $6,375
+D. $900","$5,100","$6,000","$6,375",$900
+Q069,Depreciation,2019-20,"Greta receives $21,000 for a van she used in her business. The van has been used 30% of the time for private purposes (so 70% for a taxable purpose). At the time of sale the van's adjustable value is $30,000. Because the termination value ($21,000) is less than the adjustable value ($30,000) the raw balancing adjustment is a deduction, but it must be reduced to reflect only the 70% taxable use.
+
+What deduction can Greta claim for the reduced balancing adjustment amount on the van (ignoring GST)?
+
+A. $2,700
+B. $6,300
+C. -$6,300
+D. $9,000","$2,700","$6,300","-$6,300","$9,000"
+Q070,GST,2025-26,"BR Holdings reports GST monthly and accounts for GST on a cash basis. BR Holdings purchases equipment for $9,900 (including GST) and ultimately pays the full amount and holds a valid tax invoice, so it is entitled to the full GST credit on the purchase.
+
+What is the total GST credit BR Holdings can claim on the $9,900 equipment purchase?
+
+A. $900.00
+B. $825.00
+C. $990.00
+D. $81.82",$900.00,$825.00,$990.00,$81.82
+Q071,Income tests,2024-25,"Walter and Maureen are a married couple living together. Walter receives an age pension; Maureen has not reached age-pension age and is not eligible. Walter's rebate income is $37,800 (Maureen's is nil), and his determined rebate income is below the couple cut-out threshold, so he is eligible. The couple maximum SAPTO is $1,602 with a shading-out threshold of $30,994, and the offset reduces by 12.5c for each $1 of his actual rebate income over $30,994.
+
+What SAPTO amount is Walter entitled to for 2024-25?
+
+A. -$3,123.00
+B. $751.25
+C. $1,602.00
+D. $1,379.25","-$3,123.00",$751.25,"$1,602.00","$1,379.25"
+Q072,Company tax,2024-25,"Sterling Holdings Pty Ltd has aggregated turnover of $4 million for the 2024-25 income year, which is under the $50 million threshold. Its assessable income is $200,000, of which 90% is base rate entity passive income (rent, interest and unfranked dividends). Its taxable income is also $200,000.
+
+What is Sterling Holdings Pty Ltd's company income tax payable for 2024-25?
+
+A. $60,000
+B. $10,000
+C. $55,000
+D. $50,000","$60,000","$10,000","$55,000","$50,000"
+Q073,Depreciation,2024-25,"A survey instrument cost $50,000 and has an effective life of 4 years. It was first held on the first day of the income year (held all 365 days) and is used wholly for a taxable purpose by Coastline Surveys. The asset was started to be held after 10 May 2006, so the 200% diminishing value rate applies. In the first year the base value equals the cost of $50,000.
+
+What is the decline in value for the first year under the diminishing value method?
+
+A. $18,750
+B. $25,000
+C. $6,250
+D. $12,500","$18,750","$25,000","$6,250","$12,500"
+Q074,Employment,2023-24,"Bianca is made genuinely redundant in 2023-24 after 9 completed years of service and is below her preservation age. The genuine redundancy part of her payment is $120,000. For 2023-24 the tax-free limit is the base amount $11,985 plus the service amount $5,994 for each completed year of service. The part above the tax-free limit is the taxable component of her ETP; as it is well under the ETP cap ($235,000 for 2023-24), a person below preservation age is taxed on it at 30% plus the 2% Medicare levy (a combined 32%).
+
+How much tax (including the 2% Medicare levy) applies to the part of Bianca's genuine redundancy payment that is above the tax-free limit?
+
+A. $17,302.08
+B. $38,400.00
+C. $16,220.70
+D. $32,646.72","$17,302.08","$38,400.00","$16,220.70","$32,646.72"
+Q075,CGT,2024-25,"Priya, an Australian resident, buys a vacant block of land. She owns it for 22 months and sells it, making a profit (capital gain before discount) of $24,000. She has no capital losses.
+
+What capital gain will Priya declare in her tax return after applying the CGT discount?
+
+A. $6,000
+B. $12,000
+C. $48,000
+D. $24,000","$6,000","$12,000","$48,000","$24,000"
+Q076,Superannuation,2024-25,"Raj has taxable income (income for surcharge purposes) of $280,000 for 2024-25 and $25,000 of concessional (low-tax) contributions, giving Division 293 income of $305,000. Division 293 tax is 15%, charged on the LESSER of (a) the amount of Division 293 income over the $250,000 threshold and (b) the low-tax contributions. Here the excess is $55,000 but the contributions are only $25,000, so the lesser amount is $25,000.
+
+How much Division 293 tax does Raj pay for 2024-25?
+
+A. $4,500
+B. $3,750
+C. $8,250
+D. $7,500","$4,500","$3,750","$8,250","$7,500"
+Q077,FBT,2024-25,"Brightwater Pty Ltd gives one of its employees, Dana, a hamper with a notional taxable value of $275 as a one-off gift after she returns from parental leave. The employer is registered for GST and would be entitled to a GST credit on the hamper. No similar benefits are provided to Dana during the FBT year and it would be unreasonable to treat the hamper as a fringe benefit.
+
+What is the taxable value of the hamper benefit for FBT purposes?
+
+A. $275.00
+B. $243.87
+C. $0.00
+D. $268.87",$275.00,$243.87,$0.00,$268.87
+Q078,Superannuation,2021-22,"Diego has contributed less than his concessional contributions cap for several years and has accumulated $52,000 of unused concessional cap carried forward into 2021-22 (from 2018-19 to 2020-21). At 30 June 2021 his total super balance is below $500,000, so he is eligible to use his carried-forward amounts. The standard concessional contributions cap for 2021-22 is $27,500.
+
+What is the maximum amount of concessional contributions Diego can make in 2021-22 using his carried-forward unused cap?
+
+A. $41,500
+B. $27,500
+C. $79,500
+D. $82,000","$41,500","$27,500","$79,500","$82,000"
+Q079,Rental property,2024-25,"Spencer owns a property in Tasmania. He rents it out from 1 October 2024 to 7 May 2025, a total of 219 days, and lives in it alone for the rest of the year. The council rates are $1,650 per year. He apportions the council rates on a time basis (days rented).
+
+What council rates deduction can Spencer claim against his rental income?
+
+A. $1,650.00
+B. $987.30
+C. $990.00
+D. $660.00","$1,650.00",$987.30,$990.00,$660.00
+Q080,Individual income tax,2021-22,"Naomi's taxable income is $42,000 for 2021-22. The ATO works out her low income tax offset (LITO) as the maximum offset of $700 minus 5 cents for every dollar of taxable income above $37,500.
+
+What is Naomi's low income tax offset (LITO) amount for 2021-22?
+
+A. $632.50
+B. $700.00
+C. $475.00
+D. -$1,400.00",$632.50,$700.00,$475.00,"-$1,400.00"
+Q081,CGT,2024-25,"In the 2024-25 income year Tom has two CGT events. He makes a $12,000 capital gain on shares he held for 3 years (eligible for the 50% discount). He also sells a rental property he held for 6 years for less than its reduced cost base, making a capital LOSS of $9,000. The 50% CGT discount applies only to capital gains, never to capital losses; capital losses are applied at their full value against gains BEFORE the discount.
+
+What is Tom's net capital gain for 2024-25 after applying the capital loss and the CGT discount?
+
+A. $3,750
+B. $3,000
+C. $1,500
+D. -$3,000","$3,750","$3,000","$1,500","-$3,000"
+Q082,Division 7A & Company Tax,2017-18,"Re Pty Ltd has a 30% corporate tax rate for imputation purposes (gross-up rate 2.33333) and a benchmark franking percentage of 50%. On 31 January 2018 it makes a frankable distribution of $12,500 franked to 70%, which exceeds its 50% benchmark, so it over-franks. The over-franking tax = frankable distribution x franking % differential / gross-up rate, where the differential is 20% (70% actual less 50% benchmark).
+
+How much over-franking tax does Re Pty Ltd incur on the distribution?
+
+A. $948.26
+B. $1,071.43
+C. $2,500.00
+D. $3,750.01",$948.26,"$1,071.43","$2,500.00","$3,750.01"
+Q083,Division 7A & Company Tax,2019-20,"Ironbark Industries has a prior-year aggregated turnover over $50 million, so it is not a base rate entity and its corporate tax rate for imputation purposes for the 2019-20 income year is 30%. It wants to distribute $250,000 of profit to its shareholders. The maximum franking credit is the frankable distribution multiplied by (1 / applicable gross-up rate), where the gross-up rate = (100% - 30%) / 30% = 2.3333.
+
+What is the maximum franking credit Ironbark Industries can attach to the $250,000 distribution?
+
+A. $94,826.28
+B. $75,000.00
+C. $583,325.00
+D. $107,144.39","$94,826.28","$75,000.00","$583,325.00","$107,144.39"
+Q084,Division 7A,2024-25,"On 1 September 2024, Marlowe Pty Ltd, a private company, lends $40,000 to its shareholder Priya. Priya repays the entire $40,000 in full on 1 April 2025, which is before the company's lodgment day for the 2024-25 income year (the earlier of the due date for lodgment or the actual lodgment date). There is no written loan agreement. The Division 7A benchmark interest rate for 2024-25 is 8.77%.
+
+What is the amount of the deemed Division 7A dividend to Priya for 2024-25?
+
+A. $43,508
+B. $0
+C. $40,000
+D. $3,508","$43,508",$0,"$40,000","$3,508"
+Q085,Employment,2023-24,"Darren receives a genuine redundancy payment in 2023-24. The genuine redundancy part of his payment is $205,000. His tax-free part is $95,901, based on his 14 years of service (2023-24 base amount $11,985 plus service amount $5,994 per completed year). The amount above the tax-free limit is part of his employment termination payment (ETP) and is subject to the ETP cap.
+
+How much of Darren's $205,000 genuine redundancy payment is in excess of the tax-free limit and therefore part of his ETP (subject to the ETP cap)?
+
+A. $95,901
+B. $109,099
+C. $121,084
+D. $187,021","$95,901","$109,099","$121,084","$187,021"
+Q086,Rental property,2024-25,"Beverley rents out one room in her residence (floor area 25% of the residence) plus equal shared access to the general areas (kitchen, bathroom, laundry, floor area 55% of the residence) for the full 12 months at $300 per week. The annual mortgage interest, building insurance, rates and taxes for the whole property are $16,000. The room expenses are 25% of $16,000; the general-area expenses are 55% of $16,000 apportioned 50% to reflect Beverley's equal shared use.
+
+What is Beverley's net rental income from renting out the room for the year?
+
+A. $2,800
+B. $7,200
+C. $11,600
+D. $9,200","$2,800","$7,200","$11,600","$9,200"
+Q087,Study and training loans,2025-26,"Harriet has a HELP debt and a repayment income of $96,000 in the 2025-26 income year. From 2025-26 the system is marginal: she pays 15% of her repayment income above $67,000. (Before the law change the repayment would have been 3.5% of her total $96,000 repayment income, i.e. $3,360.)
+
+Under the 2025-26 marginal system, what is Harriet's compulsory HELP repayment?
+
+A. $4,350
+B. $3,360
+C. $14,400
+D. $1,015","$4,350","$3,360","$14,400","$1,015"
+Q088,Division 7A & Company Tax,2013-14,"Pinehurst Logistics Pty Ltd's franking account starts at $0. During the 2013-14 year it records franking credits for PAYG instalment payments of $120 (21 Jul 2013), $180 (21 Oct 2013), $240 (21 Jan 2014) and $160 (21 Apr 2014), and a $45 credit for a fully franked dividend received on 27 Jun 2014. It records franking debits of $250 for a tax refund on 1 May 2014 and $400 for a franked distribution to members on 30 June 2014.
+
+What is the franking account balance as at 30 June 2014?
+
+A. $595
+B. $895
+C. $50
+D. $95",$595,$895,$50,$95
+Q089,CGT,2023-24,"Soraya bought a property for $333,000 under a contract dated 19 June 2023 (deposit $33,000, balance $300,000 on settlement 7 August 2023), paying $9,000 stamp duty and $3,000 solicitor's fees on purchase. She sold the property on 20 October 2023 for $420,000, incurring $2,000 solicitor's fees and $4,500 agent's commission on sale. Her cost base is $351,500 (300,000 + 33,000 + 9,000 + 3,000 + 2,000 + 4,500). As she bought and sold within 12 months she must use the 'other' method.
+
+What is Soraya's capital gain on the property using the 'other' method?
+
+A. $37,500
+B. $75,000
+C. $34,250
+D. $68,500","$37,500","$75,000","$34,250","$68,500"
+Q090,Rental property,2024-25,"Anjali and Theodore jointly own a holiday home. They rent it out for 5 weeks (15 December to 19 January) and reserve it for their own use the rest of the year. Their total expenses for the home were $46,950, of which $1,450 is the agent's commission and advertising for tenants (fully deductible). The remaining $45,500 of expenses (interest, insurance, repairs, maintenance, council rates) must be apportioned to the 5 weeks (out of 52) the property was rented out. They received $3,900 per week x 5 = $19,500 in rent.
+
+What net rental income do Anjali and Theodore declare for the year (combined)?
+
+A. -$23,075.00
+B. -$27,450.00
+C. $14,985.58
+D. $13,675.00","-$23,075.00","-$27,450.00","$14,985.58","$13,675.00"
+Q091,Individual income tax,2025-26,"In 2025-26 Leon is 38, single with no dependants and has no appropriate private patient hospital cover. His taxable income is $85,000 and he declares total reportable fringe benefits of $23,000, so his income for MLS purposes is $108,000. For 2025-26 a single person with income for MLS purposes between $101,001 and $118,000 is a Tier 1 earner and pays MLS at 1%, calculated on the sum of taxable income and reportable fringe benefits.
+
+What is Leon's Medicare levy surcharge liability for 2025-26?
+
+A. $2,160
+B. $1,080
+C. $1,350
+D. $850","$2,160","$1,080","$1,350",$850
+Q092,Rental property,2024-25,"Priscilla and her sister Coralie bought a newly built rental property on 24 August 2024 as tenants in common (50% each). A professional report identifies a new oven as a depreciating asset, and Priscilla's interest in the oven has a cost (base value) of $1,800 with an effective life of 8 years. They held the asset for 311 days of 2024-25 and use it wholly to produce rental income, so the decline in value is worked out using the diminishing value method: base value x (days held / 365) x (200% / effective life).
+
+What is Priscilla's decline in value deduction for her interest in the oven for 2024-25?
+
+A. $191.71
+B. $225.00
+C. $450.00
+D. $383.42",$191.71,$225.00,$450.00,$383.42
+Q093,GST,2025-26,"Nadia purchases a new non fuel-efficient car for $84,500 (including $7,200 GST and luxury car tax) on 12 July 2025 and plans to use it 100% in carrying on her business. The car limit for the 2025-26 financial year is $69,674. Because the car's price exceeds the car limit, the GST credit is capped at one eleventh of the car limit.
+
+What is the maximum GST credit Nadia can claim on the car for 2025-26?
+
+A. $7,200.00
+B. $6,334.00
+C. $6,967.40
+D. $7,681.82","$7,200.00","$6,334.00","$6,967.40","$7,681.82"
+Q094,Individual income tax,2024-25,"Priya is single with no dependants and her income for Medicare levy surcharge (MLS) purposes for 2024-25 is $130,000, which sits in the 2024-25 single Tier 2 band ($113,001 - $151,000, rate 1.25%). However, Priya held an appropriate level of private patient HOSPITAL cover for the entire income year. The MLS only applies for the days a person does NOT have appropriate hospital cover, so a full year of hospital cover means no surcharge regardless of income.
+
+What is Priya's Medicare levy surcharge for 2024-25?
+
+A. $1,625
+B. $0
+C. $1,300
+D. $2,600","$1,625",$0,"$1,300","$2,600"
+Q095,Depreciation,2019-20,"During 2019-20, Priya bought a scanner for $910 (a low-cost asset). She estimated 80% taxable use, so she allocated 80% of the cost, that is $728, to her low-value pool. At the end of 2018-19 her low-value pool had a closing balance of $8,000. In 2019-20 she allocated no other low-cost or low-value assets to the pool. The pool rate is 37.5%, and low-cost assets allocated during the year are written off at half that rate (18.75%) in the year they are added.
+
+What is Priya's deduction for the decline in value of the low-value pool for 2019-20 (ignoring GST)?
+
+A. $3,273.00
+B. $1,636.50
+C. $1,773.00
+D. $3,136.50","$3,273.00","$1,636.50","$1,773.00","$3,136.50"
+Q096,Depreciation,2025-26,"Tomas is a sole trader (aggregated turnover under $10 million) using the simplified depreciation rules. He had claimed his backhoe under temporary full expensing in an earlier year. On 19 September 2025 he buys and installs a new hydraulic attachment for the backhoe costing $14,000 - the first addition to the second element of the backhoe's cost, and under the $20,000 instant asset write-off limit. He also buys a new plasma cutter for $3,800 (used only for business, delivered 6 February 2026), which is also under the limit. Both amounts are immediately deductible in his 2025-26 return.
+
+What total deduction can Tomas claim in 2025-26 for the attachment cost addition and the plasma cutter?
+
+A. $17,800
+B. $3,800
+C. -$2,200
+D. $14,000","$17,800","$3,800","-$2,200","$14,000"
+Q097,Rental property,2024-25,"Harriet and Bruce acquired a rental property (as joint tenants, not carrying on a business of letting rental properties) on 24 August 2024. A supervising architect estimated the construction cost eligible for capital works deduction at $168,400. Construction started in October 1992, so the deduction rate is 2.5% per year. Because they acquired the property part-way through the year, they can claim the deduction only for the 311 days from 24 August 2024 to 30 June 2025.
+
+What is the maximum capital works deduction Harriet and Bruce can claim for 2024-25?
+
+A. $3,577.35
+B. $4,210.00
+C. $3,587.15
+D. $5,739.44","$3,577.35","$4,210.00","$3,587.15","$5,739.44"
+Q098,CGT,2024-25,"In 2024-25 Owen makes two capital gains: a $48,000 gain on an investment property he owned for 6 years (eligible for the 50% CGT discount) and a $9,000 gain on a painting (a collectable) he bought and sold within 8 months (held less than 12 months, so NOT eligible for the discount). He also has a $5,000 carried-forward net capital loss. To maximise the benefit, he chooses to apply the capital loss first against the gain that does NOT qualify for the discount. Capital losses are always applied before the discount.
+
+What is Owen's net capital gain for 2024-25?
+
+A. $33,000
+B. $26,000
+C. $28,000
+D. $30,500","$33,000","$26,000","$28,000","$30,500"
+Q099,CGT,2024-25,"Priya, an Australian resident for tax purposes, signs a contract to buy a residential investment property on 5 August 2024 and signs the contract to sell it on 1 July 2025 – an ownership period of just under 11 months between the two contract dates. She makes a capital gain of $40,000 (capital proceeds less cost base) and has no capital losses. The CGT discount requires the asset to be owned for at least 12 months before the CGT event (the contract date), excluding the days of acquisition and the CGT event.
+
+What capital gain must Priya include in her 2024-25 tax return?
+
+A. $40,000
+B. $20,000
+C. $10,000
+D. $30,000","$40,000","$20,000","$10,000","$30,000"
+Q100,GST,2024-25,"Ferndale Pty Ltd is registered for GST and reports on a quarterly basis. For the quarter it has GST-inclusive taxable sales of $154,000 and GST-free sales (basic food) of $22,000. It also has $66,000 of GST-inclusive creditable business purchases. The GST fraction is 1/11.
+
+What is Ferndale Pty Ltd's net GST payable for the quarter?
+
+A. $10,000
+B. $20,000
+C. $8,000
+D. $14,000","$10,000","$20,000","$8,000","$14,000"
+Q101,FBT,2025-26,"Highmoor Station Pty Ltd provides board fringe benefits valued at $18,250 to its employees for the FBT year ending 31 March 2026 (the taxable value of a board fringe benefit is $2 per meal per person). The employer does not require employees to make any contribution towards their board meals and accommodation, and the employees would not have been entitled to an income tax deduction had they paid for their meals.
+
+What is the taxable value of the board fringe benefits for the FBT year ending 31 March 2026?
+
+A. $34,434.10
+B. $9,125.00
+C. $8,577.50
+D. $18,250.00","$34,434.10","$9,125.00","$8,577.50","$18,250.00"
+Q102,FBT,2024-25,"Eastgate Pty Ltd provides an expense payment fringe benefit to its employee, Hiro, with a taxable value (before any contribution) of $3,000. Under the salary arrangement Hiro pays the employer an after-tax employee contribution of $3,200 towards the cost of the benefit. The employer includes the contribution in its assessable income.
+
+What is the taxable value of the fringe benefit after the employee contribution?
+
+A. -$200
+B. $6,200
+C. $3,000
+D. $0",-$200,"$6,200","$3,000",$0
+Q103,GST,2016-17,"Mr Okafor ceases business and cancels his GST registration. He still holds a motor vehicle that has a market value of $33,000, on which he had claimed GST credits in an earlier activity statement. The vehicle is used 60% for business purposes. On cancelling registration he must make an increasing adjustment for the GST attributable to the business-use portion of the asset still on hand.
+
+What is the GST payable (increasing adjustment) by Mr Okafor on cancelling his GST registration?
+
+A. $1,980
+B. $3,000
+C. $1,200
+D. $1,800","$1,980","$3,000","$1,200","$1,800"
+Q104,Rental property,2024-25,"A rental property owner completes the ATO rental property worksheet. The gross rent is $14,200 (rental income $13,100 plus other rental-related income $1,100). The total of all deductible rental expenses for the year (advertising, body corporate, borrowing expenses, cleaning, council rates, decline in value, gardening, insurance, interest on loans, land tax, legal, pest control, agent fees, repairs, capital works, stationery, travel, water and sundry) is $27,850.
+
+What is the net rental income or loss for the year?
+
+A. $42,050
+B. -$13,650
+C. -$19,350
+D. $13,650","$42,050","-$13,650","-$19,350","$13,650"
+Q105,Superannuation,2026-27,"From 1 July 2026 the annual non-concessional contributions cap is $130,000. Genevieve, who is under 75 with a total super balance below the relevant limit, triggers the 3-year bring-forward arrangement in 2026-27. Once triggered, the bring-forward cap is locked to the first-year cap and any later indexation (for example to $140,000 in years 2 and 3) does not apply.
+
+What is Genevieve's total non-concessional contributions bring-forward cap over the 3-year period?
+
+A. $390,000
+B. $260,000
+C. $410,000
+D. $130,000","$390,000","$260,000","$410,000","$130,000"
+Q106,FBT,2016-17,"Coral Coast Plumbing has a car with $14,000 in total operating costs for the year ending 31 March 2017. The employee who uses the car, Hugo Marsden, maintains a logbook. Based on the logbook and other usage patterns, the employer estimates the percentage of private use to be 40% (and therefore the business use percentage is 60%). Hugo has not made any contributions during the year.
+
+What is the taxable value of the car fringe benefit using the operating cost method for the FBT year ending 31 March 2017?
+
+A. $8,400
+B. $5,600
+C. $2,800
+D. $14,000","$8,400","$5,600","$2,800","$14,000"
+Q107,Superannuation,2022-23,"Nadia earns $33,000 a year as a childcare assistant. In 2022-23 her employer makes a super guarantee concessional contribution of $3,600 into her super fund. She lodges a tax return with $1,000 of deductions, giving an adjusted taxable income of $32,000, which is under the $37,000 LISTO income limit, and she meets all other eligibility criteria. LISTO is 15% of concessional contributions, capped at $500.
+
+What low income super tax offset (LISTO) is paid into Nadia's super fund?
+
+A. $360
+B. $270
+C. $540
+D. $500",$360,$270,$540,$500
+Q108,CGT,2013-14,"Bridget bought a house on 1 hectare of land under a contract settled on 1 July 1991 and moved in immediately. On 1 July 1995 she moved out and rented out the house, and did not choose to treat it as her main residence for that period. A contract for the sale was entered into on 1 July 2013 (settled 31 August 2013) and Bridget made a total capital gain of $150,000. Over her ownership period the dwelling was not her main residence for 5,840 days out of a total of 7,300 days.
+
+What is the taxable portion of Bridget's capital gain under the main residence partial exemption?
+
+A. $120,000.00
+B. $30,000.00
+C. $149,999.20
+D. $60,000.00","$120,000.00","$30,000.00","$149,999.20","$60,000.00"
+Q109,Depreciation,2019-20,"Following on from Priya's low-value pool example: the closing pool balance for 2018-19 was $8,000, the taxable-use cost of the scanner added in 2019-20 was $728, and the decline in value of the pool for 2019-20 was $3,137. The closing balance equals the prior closing balance plus assets added during the year, less the decline in value for the year.
+
+What is the closing balance of Priya's low-value pool for 2019-20 (ignoring GST)?
+
+A. $5,591
+B. $8,728
+C. $4,863
+D. $4,135","$5,591","$8,728","$4,863","$4,135"
+Q110,Study and training loans,2025-26,"In the 2025-26 financial year, Marcus has a taxable income of $61,300, total reportable fringe benefits of $6,200, a total net investment loss of $2,400, reportable super contributions of $18,000, and exempt foreign employment income of $3,100.
+
+What is Marcus's repayment income for 2025-26 (the amount used to work out his compulsory study loan repayment)?
+
+A. $91,000
+B. $61,300
+C. $84,800
+D. $88,600","$91,000","$61,300","$84,800","$88,600"
+Q111,FBT,2024-25,"Baseline Sports Manufacturing makes tennis racquets for sale by wholesale. Some racquets are damaged during manufacturing. Instead of the normal arm's length selling price (including GST) of $80, the damaged racquets have a market (notional) value of $48 each. An employee, Reuben Castle, buys a damaged racquet for $8. Because the racquet is similar but not identical to goods sold in the ordinary course of business, the taxable value is 75% of the notional value, reduced by the employee contribution.
+
+What is the taxable value of this in-house property fringe benefit?
+
+A. $40
+B. $36
+C. $28
+D. $52",$40,$36,$28,$52
+Q112,CGT,2024-25,"In 2024-25 Hana makes a discount-eligible capital gain of $8,000 on shares held for 4 years. In the same year she makes a $15,000 capital loss on an investment property. She has no prior-year capital losses. Following the ATO steps, capital losses are subtracted from capital gains (step 5) before any discount is applied (step 7); if the result is below zero it is a net capital loss that is carried forward to future years and cannot be discounted.
+
+What net capital loss does Hana carry forward to later income years from 2024-25?
+
+A. $15,000
+B. $11,000
+C. $3,500
+D. $7,000","$15,000","$11,000","$3,500","$7,000"
+Q113,GST,2025-26,"Nadia purchases the same new non fuel-efficient car for $84,500 on 12 July 2025, where the 2025-26 car limit is $69,674 and the maximum GST credit for 100% business use would be $6,334 (1/11 x $69,674). However, Nadia plans to use the car only 40% in carrying on her business, so she can claim only the business-use proportion of the maximum GST credit.
+
+What GST credit can Nadia claim if she uses the car 40% for business?
+
+A. $6,334.00
+B. $2,786.96
+C. $2,533.60
+D. $230.33","$6,334.00","$2,786.96","$2,533.60",$230.33
+Q114,Superannuation,2025-26,"During the first quarter of 2025-26, Imogen's ordinary time earnings (OTE) are $9,500. The super guarantee rate for 2025-26 is 12%.
+
+How much super guarantee must Imogen's employer contribute for the quarter?
+
+A. $9,500.00
+B. $1,140.00
+C. $1,045.00
+D. $1,092.50","$9,500.00","$1,140.00","$1,045.00","$1,092.50"
+Q115,Employment,2024-25,"Continuing Devon's example: his estimated tax on instalment income for the full year is $24,000. He paid $8,000 in the first quarter, $8,000 in the second quarter, and his varied third-quarter instalment was $2,000. In the fourth quarter he must pay 100% of his estimated tax for the year minus the amounts paid in the first three quarters.
+
+What PAYG instalment amount does Devon pay in the fourth quarter?
+
+A. $8,000
+B. $0
+C. $6,000
+D. $18,000","$8,000",$0,"$6,000","$18,000"
+Q116,FBT,2024-25,"Westfold Pty Ltd provides fringe benefits to its employees with a total taxable value of $5,000 for the FBT year ending 31 March 2025. The employer was entitled to GST credits on all of these benefits, so they are Type 1 benefits. The FBT rate is 47% and the Type 1 gross-up rate is 2.0802.
+
+What is the FBT payable on these Type 1 benefits?
+
+A. $2,350.00
+B. $4,888.47
+C. $10,401.00
+D. $4,433.98","$2,350.00","$4,888.47","$10,401.00","$4,433.98"
+Q117,Income tests,2025-26,"Petra's Division 293 income is $244,000 and her Division 293 super contributions are $12,000, a combined total of $256,000. Division 293 tax is 15% of the lesser of the super contributions or the amount of the combined total above the $250,000 threshold.
+
+What is Petra's Division 293 tax payable?
+
+A. $38,400
+B. $1,800
+C. $900
+D. $36,600","$38,400","$1,800",$900,"$36,600"
+Q118,Rental property,2024-25,"Felix and Marguerite own a residential rental property and a commercial rental property in a Queensland resort town. They travel from Perth mainly for a holiday but also to inspect both properties, spending $1,300 on airfares and $2,200 on accommodation (including meals). They also spent $80 on taxi fares to/from the commercial property and $120 on taxi fares to/from the residential property. They spent 1 day on the commercial property, 1 day on the residential property, and 9 days on holiday (11 days total). Airfares and the residential-property taxi fare are not deductible; the $80 commercial-property taxi fare is deductible; and a reasonable 1-day-out-of-11 share of accommodation is deductible for the commercial property.
+
+What total travel expenses can Felix and Marguerite claim (combined)?
+
+A. $380
+B. $480
+C. $280
+D. $3,380",$380,$480,$280,"$3,380"
+Q119,Study and training loans,2025-26,"In the 2025-26 financial year Marcus's repayment income is $92,840. From 2025-26, compulsory repayments use marginal rates: nil up to $67,000, then 15c for each $1 of repayment income over $67,000 (up to $125,000).
+
+What is Marcus's compulsory study and training loan repayment for 2025-26?
+
+A. $25,840
+B. $3,876
+C. $13,926
+D. $2,584","$25,840","$3,876","$13,926","$2,584"
+Q120,GST,2017-18,"Daniel is registered for GST and makes a creditable purchase of a 'Vello model' motor vehicle from Summit Auto in July 2017, for which he pays $45,100 (including GST) and receives a tax invoice. The vehicle is used solely in his business.
+
+What GST credit (input tax credit) can Daniel claim on the vehicle he paid $45,100 for?
+
+A. $3,758.33
+B. $4,510.00
+C. $372.73
+D. $4,100.00","$3,758.33","$4,510.00",$372.73,"$4,100.00"
+Q121,Division 7A & Company Tax,2019-20,"Coastline Composites is a base rate entity for the 2019-20 income year, so its corporate tax rate for imputation purposes is 27.5%. It wants to distribute $250,000 of profit to its shareholders. The maximum franking credit is the frankable distribution multiplied by (1 / applicable gross-up rate), where the gross-up rate = (100% - 27.5%) / 27.5% = 2.6364.
+
+What is the maximum franking credit Coastline Composites can attach to the $250,000 distribution?
+
+A. $107,144.39
+B. $68,750.00
+C. $94,826.28
+D. $659,100.00","$107,144.39","$68,750.00","$94,826.28","$659,100.00"
+Q122,CGT,2012-13,"Hiroshi bought 600 shares in WBN Ltd for $26,000 in November 1999 and sold them for $41,000 in March. As he bought the shares after 21 September 1999 he cannot use the indexation method, but as he owned them for more than 12 months he can use the discount method. He also has a net capital loss of $3,000 from an earlier income year that has not yet been applied against any capital gain.
+
+What is Hiroshi's net capital gain on the shares after applying his carried-forward loss and the CGT discount?
+
+A. $6,000
+B. $12,000
+C. $4,500
+D. $7,500","$6,000","$12,000","$4,500","$7,500"
+Q123,Superannuation,2024-25,"Petra's Division 293 income is $246,000 and her Division 293 super contributions (low-tax concessional contributions) are $11,000, for a combined total of $257,000. The Division 293 threshold is $250,000 and the Division 293 tax rate is 15%. Division 293 tax applies to the lesser of the super contributions and the amount over the threshold.
+
+What is Petra's Division 293 tax payable?
+
+A. $7,000
+B. $1,050
+C. $1,650
+D. $38,550","$7,000","$1,050","$1,650","$38,550"
+Q124,FBT,2025-26,"Voltway Electrical, an electrical retailer, provides its employee Dominic Achterberg with a television it sells to the public for $2,400 and an air conditioner it sells to the public for $1,800 during the FBT year ending 31 March 2026. These are the lowest selling prices, including GST. The items are in-house property fringe benefits and are not provided under a salary packaging arrangement. Dominic pays a total of $450 for the items. The employer qualifies for the in-house benefits concession (reduction) of up to $1,000 per employee per year. The goods are not used for work purposes.
+
+What is the taxable value of the in-house property fringe benefits after the 75% rule, employee contribution and in-house concession?
+
+A. $2,150
+B. $1,700
+C. $2,750
+D. $2,700","$2,150","$1,700","$2,750","$2,700"
+Q125,FBT,2016-17,"On 1 April 2016 Tasman Freight Co gives its employee Garrett Lindqvist an $80,000 loan at 3% for the whole FBT year, with no principal repayments required. The 3% rate is set without regard to how Garrett intends to use the loan. Garrett applies 70% of the loan to interest-bearing investments and spends the remaining 30% on home improvements. The statutory interest rate is 5.65%.
+
+What is the taxable value of the loan fringe benefit after applying the otherwise deductible rule?
+
+A. -$1,044
+B. $1,484
+C. $2,120
+D. $636","-$1,044","$1,484","$2,120",$636
+Q126,FBT,2016-17,"Ironbark Surveying Group has two cars with a reduced base value of $42,000 each. The employer entered into a contract with the employees on 1 March 2011 (a pre-existing commitment in place before 7.30pm AEST on 10 May 2011) to provide the cars for 7 years. Each car travelled 32,000 kilometres in the year ending 31 March 2017 and was available to the employees for private use for the whole year. Each employee who uses a car, including Naomi Castellano, made contributions of $1,500 for fuel during the year. Because of the pre-existing commitment, the transitional statutory percentage based on 25,000 to 40,000 kilometres travelled is 11%.
+
+What is the taxable value of the car fringe benefit for each car for the FBT year ending 31 March 2017?
+
+A. $3,120
+B. $6,900
+C. $6,120
+D. $4,620","$3,120","$6,900","$6,120","$4,620"
+Q127,Depreciation,2024-25,"Grace owns a holiday house that she uses entirely for her own private holidays. It is never rented out and is never genuinely available for rent. During 2024-25 she buys a new $4,000 dishwasher and installs it in the holiday house. Although the decline in value of a depreciating asset starts when it is first used or installed ready for use, the deduction must be reduced for any private use – and here the use is 100% private (0% taxable use).
+
+What decline-in-value deduction can Grace claim for the dishwasher in 2024-25?
+
+A. $0
+B. $4,000
+C. $800
+D. $400",$0,"$4,000",$800,$400
+Q128,Depreciation,2024-25,"Marco is a sole trader (aggregated turnover under $10 million) using the simplified depreciation rules. On 10 October 2024 he buys a packaging machine for exactly $20,000 (GST-exclusive) and uses it 100% for his business. The instant asset write-off limit for 2024-25 is $20,000, and to qualify an asset's full cost must be LESS THAN the limit. Because the cost is not below the limit, the asset cannot be instantly written off; instead it is added to the small business pool, which deducts 15% of the cost in the first year.
+
+What deduction can Marco claim for the packaging machine in 2024-25?
+
+A. $20,000
+B. $1,500
+C. $6,000
+D. $3,000","$20,000","$1,500","$6,000","$3,000"
+Q129,Study and training loans,2025-26,"In the 2025-26 financial year Declan has a taxable income of $134,200 and reportable super contributions of $16,320, giving a repayment income of $150,520. For 2025-26 the band from $125,001 to $179,285 is $8,700 plus 17c for each $1 of repayment income over $125,000.
+
+What is Declan's compulsory study and training loan repayment for 2025-26?
+
+A. $15,052.00
+B. $4,338.40
+C. $13,038.40
+D. $34,288.40","$15,052.00","$4,338.40","$13,038.40","$34,288.40"
+Q130,Individual income tax,2021-22,"Selina's taxable income is $43,000 for 2021-22 and she is eligible for both offsets. The ATO works out her low income tax offset as $700 minus 5c per $1 above $37,500, and her low and middle income tax offset as $675 plus 7.5c per $1 above $37,000, then adds them together to reduce her tax payable.
+
+What is the total tax offset (LITO + LMITO) used to reduce Selina's tax payable for 2021-22?
+
+A. $1,550
+B. $1,125
+C. $1,100
+D. $425","$1,550","$1,125","$1,100",$425
+Q131,Individual income tax,2024-25,"Diego is a foreign resident for tax purposes for the whole 2024-25 income year and has Australian-sourced taxable income of $105,000. He is NOT entitled to the tax-free threshold and, as a foreign resident, is NOT required to pay the Medicare levy. For 2024-25 the foreign resident rates are 32.5c for each $1 from the first dollar up to $120,000 (there is no $18,200 tax-free band and no $5,092 base step that residents get).
+
+What is Diego's Australian income tax for 2024-25?
+
+A. $34,125
+B. $28,210
+C. $24,592
+D. $36,225","$34,125","$28,210","$24,592","$36,225"
+Q132,Employment,2024-25,"Devon receives income from his investments. His quarterly PAYG instalment amount is $8,000, which he paid in the first quarter (1 July to 30 September) and second quarter (1 October to 31 December). In January he sells some investments and varies his instalment amount on his third-quarter activity statement. Using the PAYG instalments calculator he estimates the tax on his instalment income for the full year will be $24,000. For the third quarter he must have paid 75% of his estimated tax for the year, less the amounts already paid in the first two quarters.
+
+What varied PAYG instalment amount does Devon need to pay in the third quarter?
+
+A. -$4,000
+B. $2,000
+C. $8,000
+D. $18,000","-$4,000","$2,000","$8,000","$18,000"
+Q133,Income tests,2024-25,"Dimitri is single and receives an age pension from Centrelink. His rebate income is $42,000. The single SAPTO maximum is $2,230, the shading-out threshold is $34,919 and the cut-out threshold is $52,759. Because his rebate income is below the cut-out threshold he is eligible, but as it exceeds the shading-out threshold his offset reduces by 12.5c for each $1 over $34,919.
+
+What SAPTO amount is Dimitri entitled to for 2024-25?
+
+A. $1,344.88
+B. $2,230.00
+C. -$3,020.00
+D. $885.12","$1,344.88","$2,230.00","-$3,020.00",$885.12
+Q134,Rental property,2024-25,"Imogen and Rupert (joint tenants, 50% each) secure a 25-year loan of $264,000 to buy a rental property for $220,000 and a private car for $44,000. Their borrowing expenses (establishment fees, valuation fees and stamp duty on the mortgage) total $2,150. As this exceeds $100, the deduction is spread over 5 years (1,826 days), which is less than the 25-year loan term. They obtained the loan on 3 August, giving 332 relevant days in the first income year, and only the rental-property portion ($220,000 of $264,000) is deductible.
+
+What borrowing expenses deduction can Imogen and Rupert claim in the first year (combined)?
+
+A. $390.91
+B. $325.76
+C. $358.33
+D. $1,791.67",$390.91,$325.76,$358.33,"$1,791.67"
+Q135,GST,2016-17,"Hugo runs an electrical business and is registered for GST. He bought a vehicle for $55,000 (including $5,000 GST) and used it 70% for business and 30% privately, so he claimed a GST credit of $3,500 (70% of the $5,000 GST). He made no other adjustments. Hugo later sells the vehicle for $27,500 (including $2,500 GST) as a taxable sale, and is entitled to a decreasing adjustment because he couldn't claim a full GST credit on purchase.
+
+What decreasing GST adjustment can Hugo claim on the sale of the vehicle?
+
+A. $750
+B. $1,750
+C. $1,500
+D. $2,500",$750,"$1,750","$1,500","$2,500"
+Q136,Superannuation,2024-25,"Nadia has total concessional contributions of $38,000 for 2024-25 (employer SG plus salary sacrifice plus a deductible personal contribution). The concessional contributions cap from 1 July 2024 is $30,000 and she has no unused carry-forward cap. The excess concessional contributions (ECC) of $8,000 are included in her assessable income and taxed at her marginal rate, reduced by a 15% non-refundable tax offset for the contributions tax the fund already paid. Nadia's marginal rate on this amount is 37%.
+
+What extra income tax does Nadia pay on her excess concessional contributions for 2024-25 (after the 15% offset)?
+
+A. $8,360
+B. $2,960
+C. $1,760
+D. $0","$8,360","$2,960","$1,760",$0
+Q137,Individual income tax,2024-25,"Owen is single with no dependants and has no private patient hospital cover for the whole of 2024-25. His income for MLS purposes is exactly $97,001 - just $1 over the 2024-25 single base-tier ceiling of $97,000 - which places him in Tier 1. The Tier 1 rate is 1% and the surcharge is levied on his WHOLE income for MLS purposes, not just the $1 above the threshold.
+
+What is Owen's Medicare levy surcharge for 2024-25?
+
+A. $0.00
+B. $0.01
+C. $1,212.51
+D. $970.01",$0.00,$0.01,"$1,212.51",$970.01
+Q138,Depreciation,2025-26,"Continuing the diminishing value example, a survey instrument that cost $50,000 with a 4-year effective life declined by $25,000 in its first year. The base value reduces each year by the prior decline in value, so the base value for the second year is $50,000 minus $25,000 = $25,000. The asset is held for the full 365 days of the second year and used wholly for a taxable purpose (200% rate).
+
+What is the decline in value for the second year under the diminishing value method?
+
+A. $6,250
+B. $9,375
+C. $12,500
+D. $25,000","$6,250","$9,375","$12,500","$25,000"
+Q139,Division 7A & Company Tax,2014-15,"A Division 7A amalgamated loan has an opening principal of $90,000 at 1 July 2014. A $24,000 repayment on 1 October 2014 reduced the balance to $66,000, and a $12,000 repayment on 1 June 2015 reduced it to $54,000. Interest for the 2014-15 year is calculated annually in arrears on the daily balance at the 2015 benchmark rate of 5.95%: 92 days on $90,000, then 243 days on $66,000, then 30 days on $54,000 (365-day year).
+
+What is the total interest accrued on the loan for the 2014-15 income year (rounded to the nearest dollar)?
+
+A. $4,228
+B. $4,165
+C. $3,213
+D. $5,355","$4,228","$4,165","$3,213","$5,355"
+Q140,Rental property,2024-25,"Lawrence's private residence includes a self-contained flat whose floor area is one-third of the residence. He rents out the flat for 9 months (39 weeks) of the year at $160 per week; for the rest of the year his nephew lives there rent free. The annual mortgage interest, building insurance, rates and taxes for the whole property are $13,500. Lawrence apportions these on a floor-area basis (one-third applies to the flat) and then on a time basis (the flat produced rental income for three-quarters of the year).
+
+What is Lawrence's net rental income from the flat for the year?
+
+A. $2,865
+B. -$3,885
+C. -$7,260
+D. $1,740","$2,865","-$3,885","-$7,260","$1,740"
+Q141,Imputation,2024-25,"Tobias, an Australian resident individual on a 47% marginal rate (including Medicare levy), receives a franked distribution of $700 directly from a company with $300 of franking credits attached. He uses the gross-up and credit approach: he includes the grossed-up amount in assessable income and is entitled to a tax offset equal to the franking credit.
+
+What is Tobias's additional ('top-up') tax payable on the franked distribution?
+
+A. $329
+B. $29
+C. $470
+D. $170",$329,$29,$470,$170
+Q142,FBT,2024-25,"Park-Pro is a commercial parking station whose all-day parking fees are lower the greater the financial commitment. A customer pays $357 to park their car for a month that contains 21 business days, with the facility open 24 hours a day. Under the commercial parking station method, the lowest daily rate for all-day parking is worked out by dividing the periodic fee by the number of business days in the period.
+
+What is the lowest daily rate charged by Park-Pro for all-day parking (the per-day taxable value of a car parking benefit under the commercial parking station method)?
+
+A. $11.90
+B. $32.08
+C. $17.00
+D. $357.00",$11.90,$32.08,$17.00,$357.00
+Q143,FBT,2025-26,"Clearview Hardware, a retail business, lends its employee Sienna Okafor $35,000. It does not charge any interest, and Sienna makes no repayments during the FBT year ending 31 March 2026. The statutory (benchmark) interest rate that applies from 1 April 2025 is 8.62%.
+
+What is the taxable value of the loan fringe benefit for the FBT year ending 31 March 2026?
+
+A. $1,417.99
+B. $5,692.48
+C. $3,017.00
+D. $35,000.00","$1,417.99","$5,692.48","$3,017.00","$35,000.00"
+Q144,Employment,2024-25,"Owen keeps a logbook to work out the business-use percentage of his car. Over the logbook period his car travelled a total of 13,000 kilometres, of which 9,750 kilometres were for business-related purposes.
+
+What is Owen's business-use percentage for the logbook method?
+
+A. $0.75
+B. $75.00
+C. $25.00
+D. $133.33",$0.75,$75.00,$25.00,$133.33
+Q145,GST,2017-18,"In July 2017 Summit Auto, a GST-registered car dealer, sold a 'Vello model' motor vehicle. Daniel paid $45,100 (including GST) for the vehicle, and the manufacturer paid Summit Auto a $3,300 (including GST) run-out incentive that forms part of the consideration, so the total price for the sale of the motor vehicle is $48,400. Summit Auto must report the full GST payable on this taxable sale.
+
+What is the total GST payable by Summit Auto on the sale of the vehicle?
+
+A. $4,100
+B. $4,840
+C. $4,400
+D. $400","$4,100","$4,840","$4,400",$400
+Q146,Study and training loans,2024-25,"Bianca has a HELP debt of $12,000. Her taxable income for 2024-25 is $61,500. Based on taxable income alone her repayment would be lower. However, she also receives reportable fringe benefits with a reportable fringe benefit amount (RFBA) of $16,200, which is added to her taxable income to give her repayment income. For 2024-25 the whole repayment income is multiplied by the applicable rate, and a repayment income of $77,700 falls in the 3.5% band.
+
+What is Bianca's compulsory HELP repayment for 2024-25 once her RFBA is included in her repayment income?
+
+A. $615.00
+B. $2,719.50
+C. $2,152.50
+D. $3,108.00",$615.00,"$2,719.50","$2,152.50","$3,108.00"
+Q147,Individual income tax,2024-25,"Tomas is an Australian resident for all of 2024-25 with a taxable income of $16,000, single with no dependants. This is below the $18,200 tax-free threshold, so his basic income tax is nil. It is also at or below the 2024-25 single Medicare levy lower threshold of $27,222, so he pays no Medicare levy. (The first Stage 3 rate is 16c per $1 over $18,200, and the full Medicare levy is 2%.)
+
+What is Tomas's total tax (income tax plus Medicare levy) for 2024-25?
+
+A. $2,880
+B. $0
+C. -$352
+D. $320","$2,880",$0,-$352,$320
+Q148,CGT,2024-25,"In the same financial year, Daniel makes a $120,000 capital gain on an investment property he owned for 6 years. He also sells 2,000 shares he bought for $24,000 (including stamp duty and brokerage) for $16,800, making a capital loss of $7,200. He has no other capital gains or losses and no prior-year losses.
+
+What is Daniel's net capital gain for the year after offsetting the share loss and applying the CGT discount?
+
+A. $52,800
+B. $60,000
+C. $63,600
+D. $56,400","$52,800","$60,000","$63,600","$56,400"
+Q149,CGT,2012-13,"In October 1986 Beatriz was given 800 shares in QHL Ltd with a market value of $4,000. She sold the shares last April for $7,800. As she acquired the shares before 21 September 1999 and owned them for more than 12 months, she can use the indexation method. The indexation factor is CPI Sep 1999 quarter (123.4) / CPI Dec 1986 quarter (79.8) = 1.546, giving an indexed cost base of $4,000 x 1.546 = $6,184.
+
+What is Beatriz's capital gain on the QHL Ltd shares using the indexation method?
+
+A. $808
+B. $1,616
+C. $1,900
+D. $3,800",$808,"$1,616","$1,900","$3,800"
+Q150,FBT,2025-26,"Alpine Confectionery Pty Ltd, a chocolate manufacturer, provides a flat in the Melbourne CBD to its employee Maeve Donovan for the FBT year ending 31 March 2026. The flat is Maeve's usual place of residence for the whole year. The market rental value for the year is $49,400 (52 weeks at $950). Maeve pays a nominal rent of $7,800 for the year ($150 per week).
+
+What is the taxable value of the housing fringe benefit for the FBT year ending 31 March 2026?
+
+A. $41,600
+B. $49,400
+C. -$44,200
+D. $31,200","$41,600","$49,400","-$44,200","$31,200"
+Q151,CGT,2024-25,"Diego is a foreign resident for Australian tax purposes for the entire period he owns a taxable Australian real property. He acquired the property on 1 March 2015 (after 8 May 2012) and sold it on 1 September 2024, owning it for over 9 years – well beyond 12 months. He makes a capital gain of $300,000 on the sale and has no capital losses. He was a foreign resident for the whole of his ownership period and had no period of Australian residency.
+
+What capital gain must Diego include in his Australian tax return for 2024-25?
+
+A. $150,000
+B. $300,000
+C. $225,000
+D. $75,000","$150,000","$300,000","$225,000","$75,000"
+Q152,Individual income tax,2021-22,"Roberto's taxable income is $74,000 for 2021-22. He is not eligible for the low income tax offset (his income is above $66,667). As his income is more than $48,000 but less than $90,000, he is eligible for a low and middle income tax offset of $1,500. The ATO reduces his tax payable of $14,517 by $1,500 using the LMITO. (Tax payable figure excludes the Medicare levy.)
+
+What is Roberto's income tax payable after the LMITO is applied for 2021-22?
+
+A. $14,517
+B. $13,017
+C. $16,017
+D. $12,317","$14,517","$13,017","$16,017","$12,317"
+Q153,Depreciation,2025-26,"On 22 October 2025, Liam (a sole trader using the simplified depreciation rules) buys a new laptop for $9,200 that he uses 75% of the time for his business. He also buys a new label printer for $1,200 that he uses only for business. Each asset costs less than the $20,000 instant asset write-off limit for 2025-26, so he can immediately deduct the business-use portion of each.
+
+What combined instant asset write-off deduction can Liam claim for 2025-26?
+
+A. $7,800
+B. $6,900
+C. $8,100
+D. $10,400","$7,800","$6,900","$8,100","$10,400"
+Q154,Company tax,2024-25,"Harbourview Pty Ltd has aggregated turnover of $8 million for 2024-25 (under the $50 million threshold). Its assessable income is made up such that exactly 80% is base rate entity passive income and 20% is active trading income. Its taxable income is $150,000. The base rate entity test requires passive income to be 80% OR LESS of assessable income.
+
+What is Harbourview Pty Ltd's company income tax payable for 2024-25?
+
+A. $37,500
+B. $45,000
+C. $7,500
+D. $41,250","$37,500","$45,000","$7,500","$41,250"
+Q155,Rental property,2024-25,"Sefina jointly owns a holiday home she owns for the whole of 2024-25. It is rented out (and genuinely available for rent) for 31 of the 52 weeks at $650 per week; she reserves it for her own private use the rest of the year. Her general expenses (interest, insurance, rates and maintenance) total $26,000 and must be apportioned to the period the property was rented or available. Her property agent's fees and advertising for tenants of $1,500 are fully deductible. A quantity surveyor's report shows a Division 43 capital works deduction of $3,000 for the whole-year ownership.
+
+What is Sefina's net rental income from the holiday home for 2024-25?
+
+A. -$10,350.00
+B. $150.00
+C. $3,150.00
+D. $755.77","-$10,350.00",$150.00,"$3,150.00",$755.77
+Q156,Income tests,2025-26,"In 2025-26 Liam is 38, single with no dependants and does not have an appropriate level of private patient hospital cover. His taxable income is $84,000 and he declares total reportable fringe benefits of $23,000, giving income for MLS purposes of $107,000. As a single with income between $101,001 and $118,000 he is a Tier 1 earner, so the 1% MLS rate applies.
+
+What is Liam's Medicare levy surcharge liability for 2025-26?
+
+A. $840.00
+B. $1,605.00
+C. $1,337.50
+D. $1,070.00",$840.00,"$1,605.00","$1,337.50","$1,070.00"

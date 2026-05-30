@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "TaxBench-AU: A benchmark for testing whether AI agents can calculate Australian tax"
+message: "If you use this benchmark, please cite the paper."
+authors:
+  - family-names: Nair
+    given-names: Poonam
+type: dataset
+version: "0.2"
+date-released: 2026-05-30
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "TaxBench-AU: A benchmark for testing whether AI agents can calculate Australian tax"
+  authors:
+    - family-names: Nair
+      given-names: Poonam
+  year: 2026

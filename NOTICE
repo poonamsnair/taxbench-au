@@ -1,0 +1,33 @@
+TaxBench-AU
+Copyright (c) 2026 The TaxBench-AU authors
+
+This product references public Australian Taxation Office (ATO) materials,
+including web guides, worked examples, tax rates, and rule pages used to
+ground Australian tax calculation questions.
+
+ATO materials are © Australian Taxation Office for the Commonwealth of
+Australia and are subject to the ATO's published copyright terms. Dataset
+items cite source URLs and legal references for auditability. The public
+questions use changed names, changed numbers, or derived edge cases rather
+than republishing verbatim ATO worked examples.
+
+This repository does not redistribute bulk ATO source documents.
+Researchers must verify source material directly with the ATO under the
+ATO's published terms:
+
+    https://www.ato.gov.au/law/
+
+This project is not affiliated with, endorsed by, or sponsored by the
+Australian Taxation Office, the Commonwealth of Australia, or the Tax
+Practitioners Board. Inclusion of an ATO source identifier in a benchmark
+item does not imply ATO endorsement of any system that scores well or
+poorly on the benchmark.
+
+Licences:
+
+  Benchmark items, documentation, and metadata
+                                                — CC BY 4.0 (LICENSE-CC-BY-4.0)
+  Source code (verifier.py and supporting code)
+                                                — MIT       (LICENSE-MIT)
+  ATO source materials (URLs and referenced rules)
+                                                — © ATO; see above.

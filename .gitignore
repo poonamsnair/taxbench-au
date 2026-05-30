@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+runs/
+.firecrawl/
+.DS_Store
